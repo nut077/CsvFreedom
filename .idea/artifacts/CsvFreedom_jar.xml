@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CsvFreedom:jar">
+    <output-path>$PROJECT_DIR$/../CSVFreedom/out/artifacts/CsvFreedom_jar</output-path>
+    <root id="archive" name="CsvFreedom.jar">
+      <element id="module-output" name="CsvFreedom" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/servlet.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
